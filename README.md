@@ -19,7 +19,7 @@ An interactive Tableau analysis exploring Netflix's strategic evolution across c
 
 **Insight:** Netflix's "originals-first" strategy became evident around 2014-2016, particularly for TV content, transforming them from a distribution platform to a content creator.
 
-![Acquisition Lag Chart](images/acquisition-lag.png)
+![Acquisition Lag Chart](Images/acquisition-lag.png)
 
 ---
 
@@ -30,23 +30,23 @@ An interactive Tableau analysis exploring Netflix's strategic evolution across c
 **Timeline Progression:**
 
 **2008 - Pure US Content:**
-![2008 Map](images/map-2008.png)
+![2008 Map](Images/map-2008.png)
 *Netflix operates exclusively with American content - the massive circle over the US tells the entire story.*
 
 **2013 - Testing International Waters:**
-![2013 Map](images/map-2013.png)
+![2013 Map](Images/map-2013.png)
 *First tentative step: Canada receives content. Netflix tests English-speaking markets first.*
 
 **2015 - Global Expansion Launches:**
-![2015 Map](images/map-2015.png)
+![2015 Map](Images/map-2015.png)
 *The strategic shift begins: UK, France, Spain, Germany across Europe; Japan, South Korea, Australia in Asia-Pacific; Mexico and Brazil in Latin America. Netflix simultaneously enters multiple markets, establishing a global footprint.*
 
 **2016 - The Inflection Point:**
-![2016 Map](images/map-2016.png)
+![2016 Map](Images/map-2016.png)
 *Explosive growth: India emerges as a major hub (large circle), Turkey and Pakistan enter the mix, South Korea and Japan circles grow substantially. Netflix's "global original content" strategy becomes reality - dozens of countries now producing content.*
 
 **2020 - Truly Worldwide:**
-![2020 Map](images/map-2020.png)
+![2020 Map](Images/map-2020.png)
 *Mature global platform: Content contributions from 50+ countries, with India, UK, South Korea, and Japan as major hubs alongside the US. The map shows Netflix achieved its goal of being a local content producer in nearly every market.*
 
 **Key Insight:** The 2015-2016 period represents Netflix's strategic transformation from "American streaming service available internationally" to "global entertainment platform with localized content production." This two-year window saw them enter dozens of markets simultaneously and begin commissioning local original content - fundamentally changing their competitive position against traditional media companies.
@@ -64,7 +64,7 @@ An interactive Tableau analysis exploring Netflix's strategic evolution across c
 
 **Insight:** Netflix's genre strategy mirrors their geographic expansion - as they entered new markets, local content production became their competitive advantage.
 
-![Genre Evolution](images/genre-evolution.png)
+![Genre Evolution](Images/genre-evolution.png)
 
 ---
 
@@ -80,7 +80,7 @@ An interactive Tableau analysis exploring Netflix's strategic evolution across c
 
 **Insight:** Netflix clearly targets adult audiences, with mature content dominating their production strategy. This likely reflects both viewing patterns and competition with family-oriented platforms like Disney+.
 
-![Ratings Distribution](images/ratings-distribution.png)
+![Ratings Distribution](Images/ratings-distribution.png)
 
 ---
 
