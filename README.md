@@ -99,9 +99,7 @@ An interactive Tableau analysis exploring Netflix's strategic evolution across c
 
 ## 📁 Data Source
 
-Dataset: [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- 7,787 titles
-- Data through 2020
+Dataset: [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 
 ---
 
